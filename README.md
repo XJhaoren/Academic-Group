@@ -1,3 +1,3 @@
 # Academic-Group
-你好，徐建好人
-写的真好
+1\Taskonomy: Disentangling Task Transfer Learning
+http://openaccess.thecvf.com/content_cvpr_2018/papers/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.pdf

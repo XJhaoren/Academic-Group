@@ -15,6 +15,7 @@ https://arxiv.org/abs/1709.08810
 二、20180630
 
 1.Gated Recurrent Convolution Neural Network for OCR
+
 http://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-ocr.pdf
 
 主讲人：杜臣

@@ -18,5 +18,8 @@ https://arxiv.org/abs/1709.08810
 http://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-ocr.pdf
 主讲人：杜臣
 内容：NIPS 2017.  使用GRCNN做特征提取，然后接入BLSTM和CTC进行字符串识别
- 
 
+2、Pix2PixGAN-CycleGAN-Pix2PixHD
+https://arxiv.org/pdf/1611.07004.pdf
+主讲人：赵晋媛
+内容：基于输入条件的GAN改进及处理

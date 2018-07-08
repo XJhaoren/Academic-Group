@@ -23,3 +23,10 @@ http://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-
 https://arxiv.org/pdf/1611.07004.pdf
 主讲人：赵晋媛
 内容：基于输入条件的GAN改进及处理
+
+三、20180708
+
+1. StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation
+http://openaccess.thecvf.com/menu.py
+主讲人：徐健
+内容：1对多转化GAN

@@ -30,3 +30,8 @@ https://arxiv.org/pdf/1611.07004.pdf
 http://openaccess.thecvf.com/menu.py
 主讲人：徐健
 内容：1对多转化GAN
+
+2. CVPR 2018 Relation Networks for Object Detection
+http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Relation_Networks_for_CVPR_2018_paper.pdf
+主讲人：贾馥溪
+内容：目标间联系的建模

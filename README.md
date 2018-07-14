@@ -35,3 +35,10 @@ http://openaccess.thecvf.com/menu.py
 http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Relation_Networks_for_CVPR_2018_paper.pdf
 主讲人：贾馥溪
 内容：cvpr2018, 目标间联系的建模
+
+四、20180715
+
+1.Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks
+https://www.cs.toronto.edu/~graves/icml_2006.pdf
+主讲人：杜臣
+内容：CTC loss经典论文，非对齐时间序列的训练损失计算

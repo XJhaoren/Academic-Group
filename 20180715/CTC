@@ -1,0 +1,10 @@
+Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks
+CTC loss经典文章，非对齐时间序列训练
+https://www.cs.toronto.edu/~graves/icml_2006.pdf
+
+[1] Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks
+[2] https://blog.csdn.net/luodongri/article/details/77005948
+[3] https://distill.pub/2017/ctc/
+[4]https://docs.google.com/presentation/d/12gYcPft9_4cxk2AD6Z6ZlJNa3wvZCW1ms31nhq51vMk/pub?start=false&loop=false&delayms=3000&slide=id.g24e9f0de4f_0_21796
+[5] https://www.youtube.com/watch?v=eYIL4TMAeRI&t=549s
+[6] https://www.youtube.com/watch?v=c86gfVGcvh4

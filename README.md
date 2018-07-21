@@ -42,3 +42,13 @@ http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Relation_Networks_for_C
 https://www.cs.toronto.edu/~graves/icml_2006.pdf
 主讲人：杜臣
 内容：CTC loss经典论文，非对齐时间序列的训练损失计算
+
+五、20180723
+
+1、Spatial Transformer Networks
+https://papers.nips.cc/paper/5854-spatial-transformer-networks.pdf
+内容：空间变换网络，实现对些形变的矫正，解决卷积网络对空间形变不鲁棒的问题
+2、ASTER: An Attentional Scene Text Recognizer with Flexible Rectification
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8395027
+内容：使用STN(Spatial Transformer Networks)解决场景字符串识别中的字符串空间变形导致难识别的问题
+主讲人：杜臣

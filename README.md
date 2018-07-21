@@ -48,6 +48,7 @@ https://www.cs.toronto.edu/~graves/icml_2006.pdf
 1、Spatial Transformer Networks
 https://papers.nips.cc/paper/5854-spatial-transformer-networks.pdf
 内容：空间变换网络，实现对些形变的矫正，解决卷积网络对空间形变不鲁棒的问题
+
 2、ASTER: An Attentional Scene Text Recognizer with Flexible Rectification
 https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8395027
 内容：使用STN(Spatial Transformer Networks)解决场景字符串识别中的字符串空间变形导致难识别的问题
